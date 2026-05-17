@@ -1,0 +1,11 @@
+# Ignore everything at the root level by default
+/*
+
+# Allow the .gitignore file itself
+!.gitignore
+
+# Allow specific configuration directories and all their contents
+!/dconf/
+!/waybar/
+!/hypr/
+!/htop/

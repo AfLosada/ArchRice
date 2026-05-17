@@ -1,0 +1,166 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Perplexity//Camino de Santiago 20 días//ES
+CALSCALE:GREGORIAN
+
+BEGIN:VEVENT
+UID:camino-1@perplexity
+SUMMARY:Día 1 – Bogotá - Madrid
+DESCRIPTION:Vuelo de Bogotá a Madrid. Noche en hotel en Madrid.
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-2@perplexity
+SUMMARY:Día 2 – Madrid - Orbaneja Río Pico
+DESCRIPTION:Bus + taxi de Madrid a Orbaneja Río Pico. Llegada y hospedaje en Orbaneja.
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-3@perplexity
+SUMMARY:Día 3 – Orbaneja Río Pico (descanso)
+DESCRIPTION:Día de estancia en Orbaneja Río Pico. Hospedaje en el pueblo (albergue u hospedaje rural).
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-4@perplexity
+SUMMARY:Día 4 – Orbaneja Río Pico - Burgos
+DESCRIPTION:Etapa a pie Orbaneja Río Pico - Burgos (aprox. 11 km). Alojamiento en albergue de peregrinos Casa del Cubo y de los Lerma.
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-5@perplexity
+SUMMARY:Día 5 – Burgos
+DESCRIPTION:Día en Burgos para turismo y descanso.
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-6@perplexity
+SUMMARY:Día 6 – Burgos - Santander
+DESCRIPTION:Traslado Burgos - Santander (tren o bus). Llegada a Santander.
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-7@perplexity
+SUMMARY:Día 7 – Turismo en Santander
+DESCRIPTION:Día de turismo y descanso en Santander.
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-8@perplexity
+SUMMARY:Día 8 – Santander - Santillana del Mar
+DESCRIPTION:Bus de Santander a Santillana del Mar.
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-9@perplexity
+SUMMARY:Día 9 – Santillana del Mar - Comillas
+DESCRIPTION:Etapa a pie Santillana del Mar - Comillas (aprox. 11.9 km). Hospedaje en Comillas.
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-10@perplexity
+SUMMARY:Día 10 – Cobreces (hospedaje)
+DESCRIPTION:Día con hospedaje en Cobreces y alrededores.
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-11@perplexity
+SUMMARY:Día 11 – Cobreces - Comillas
+DESCRIPTION:Etapa a pie Cobreces - Comillas (aprox. 10.3 km). Noche en Comillas.
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-12@perplexity
+SUMMARY:Día 12 – Comillas - San Vicente de la Barquera
+DESCRIPTION:Etapa a pie Comillas - San Vicente de la Barquera (aprox. 11.1 km). Hospedaje en San Vicente.
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-13@perplexity
+SUMMARY:Día 13 – San Vicente de la Barquera (hospedaje)
+DESCRIPTION:Día de hospedaje y descanso en San Vicente de la Barquera.
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-14@perplexity
+SUMMARY:Día 14 – San Vicente de la Barquera - Serdio
+DESCRIPTION:Etapa a pie San Vicente de la Barquera - Serdio (aprox. 12.6 km).
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-15@perplexity
+SUMMARY:Día 15 – Serdio - Colombres
+DESCRIPTION:Etapa a pie Serdio - Colombres (aprox. 9 km).
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-16@perplexity
+SUMMARY:Día 16 – San Vicente de la Barquera - Arzúa (bus)
+DESCRIPTION:Traslado San Vicente de la Barquera - Arzúa con 3 paradas de bus. Llegada y hospedaje en Arzúa.
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-17@perplexity
+SUMMARY:Día 17 – Arzúa - Boavista
+DESCRIPTION:Etapa a pie Arzúa - Boavista (aprox. 9.1 km). Hospedaje en Boavista.
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-18@perplexity
+SUMMARY:Día 18 – Boavista - O Pedrouzo
+DESCRIPTION:Etapa a pie Boavista - O Pedrouzo (aprox. 10.2 km). Hospedaje en O Pedrouzo.
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-19@perplexity
+SUMMARY:Día 19 – O Pedrouzo - Lavacolla
+DESCRIPTION:Etapa a pie O Pedrouzo - Lavacolla (aprox. 9.5 km). Hospedaje en Lavacolla.
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+END:VEVENT
+
+BEGIN:VEVENT
+UID:camino-20@perplexity
+SUMMARY:Día 20 – Lavacolla - Santiago de Compostela
+DESCRIPTION:Etapa a pie Lavacolla - Santiago de Compostela (aprox. 9.9 km). Llegada a la catedral y fin del Camino de 20 días.
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+END:VEVENT
+
+END:VCALENDAR
