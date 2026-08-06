@@ -1,12 +1,13 @@
 {
   "layer": "top",
   "position": "top",
-  "margin-bottom": -10,
-  "spacing": 0,
+  "margin-bottom": 0,
+  "spacing": 1,
   "modules-left": [
     "hyprland/workspaces",
     "cpu",
-    "custom/pomodoro"
+    "custom/pomodoro",
+    "custom/music"
   ],
   "modules-center": [
     "clock"
@@ -15,7 +16,8 @@
     "bluetooth",
     "network",
     "pulseaudio",
-    "memory"
+    "memory",
+    "custom/lock"
   ],
   "hyprland/workspaces": {
     "format": "{name}: {icon}",
